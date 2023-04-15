@@ -1,2 +1,2 @@
-# Predict-Cardiovascular-Disease-Using-PCA-XGBoost-Classification
+# Predict-Cardiovascular-Disease-Using-Gridsearch-XGBoost-Classification
 Machine learning project
